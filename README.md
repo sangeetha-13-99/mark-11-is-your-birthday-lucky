@@ -1,2 +1,2 @@
 # mark-11-is-your-birthday-lucky
-Created with CodeSandbox
+This is the App which checks the user entered birthdate,lucky number  and checks whether your birthdate is lucky or not by implmenting the logic ,this app is made with react used pure css.
