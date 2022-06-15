@@ -62,8 +62,25 @@ input[type="number"] {
   background-color: rgba(245, 245, 245, 0.089);
   color:white;
   border:0.1px solid white;
+  cursor:pointer;
 }
 .mainContainer button:hover{
   text-decoration: underline;
   font-weight: bold;
+}
+
+.outputMessage{
+  font-family: 'Nunito', sans-serif;
+  margin:30px auto;
+  padding:10px;
+  border-radius:4px;
+  background-color: rgba(26, 126, 241, 0.089);
+
+}
+
+.success{
+  color:rgb(248, 105, 241);
+}
+.fail{
+color:rgb(255, 166, 0);
 }
