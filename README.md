@@ -6,4 +6,4 @@
 <p>
 This App is developed using codesandbox and React,html and pure css is used to develop this app
 </p>
-Do check this app here is the live Link :<a href="https://csb-gqb1pc.netlify.app/">Is-your-birthday-lucky🎉</a>
+Do check this app here is the live Link :<a href="https://csb-jlks9g.netlify.app/">Is-your-birthday-lucky🎉</a>
